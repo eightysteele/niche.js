@@ -1,4 +1,4 @@
-== Overview ==
+=Overview=
 
 The goal of this project is to experiment with species niche modeling in JavaScript.
 
